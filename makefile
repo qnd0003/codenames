@@ -9,3 +9,4 @@ func.cpp: func.cpp func.h
 
 clean:
 	rm *.o
+	rm codenames
