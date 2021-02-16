@@ -1,0 +1,9 @@
+teaching,instruction,school,university,science,homework,lesson,research,student
+forest,wood,shrub,bark,oak,birch,plant,water,beech,conifer,root,pine
+king,queen,monarch,royalty,prince,country,palace
+usa,country,union,america,president,alaska
+state,law,court,rules,police,statute,bill,legal
+fry,cook,oven,stew,fudge,cookie,culinary,heat,eat,lard
+sea,artic,water,river,coral,tropics,marine,bay,gulf,ship,deep,cape,salt
+opera,poetry,symphony,rhythm,composer,flute,tweedle,radio,sing,funk,sound
+vision,image,look,concept,stare,eye,dream,experience,glance
