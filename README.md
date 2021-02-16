@@ -1,3 +1,7 @@
 # codenames
 
-Base of the game codenames
+usage:
+- make
+- ./codenames
+
+*can also compile with g++ *.cpp
